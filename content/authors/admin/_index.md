@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 高瑞
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Gao Rui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui
+last_name: Gao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤗
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,27 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: The third year math phd student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: School of Mathematical Sciences, Shanghai Jiao Tong University
+    url: https://www.math.sjtu.edu.cn/Default/index
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'gaorui0416@sjtu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
